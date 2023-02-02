@@ -39,4 +39,10 @@
 
 ## Copy \anaconda3\envs\Shoulder_env to APShoulder
 
+## Install QT 5.15.0
+
+## Install VTK 8.0.0 library
+
+## Install DCMTK 3.6.0 library
+
 ## Run the APShoulder.exe file in the APShoulder directory
