@@ -36,6 +36,7 @@
 - conda pip install scikit-image
 
 ## Copy all files in DeepLearningModel to APShoulder
+- Extract best_metric_model.zip
 
 ## Copy \anaconda3\envs\Shoulder_env to APShoulder
 
